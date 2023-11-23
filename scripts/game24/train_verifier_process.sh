@@ -12,7 +12,7 @@ save_verifier_id=n${n_solution}-scahead-mse-lm-token-bsz128-ep10
 
 checkpoint_dir=~/models/game24/generators/${generator_id}
 
-final_id=process-${generator_id}-${save_verifier_id}
+final_id=prm-${generator_id}-${save_verifier_id}
 save_dir=~/models/game24/verifiers/${final_id}
 export WANDB_NAME=${final_id}
 

@@ -1,0 +1,32 @@
+{
+    "#question": 100,
+    "#solution_per_problem": 300,
+    "#total_solutions": 30000,
+    "accuracy": 0.9986666666666667,
+    "mpk": {
+        "mp1": {
+            "mpk": 0.99,
+            "mpk_adapt": 1.0,
+            "filter_mpk": 1.0,
+            "n_example_filter": 99
+        },
+        "mp3": {
+            "mpk": 0.9733333333333334,
+            "mpk_adapt": 1.0,
+            "filter_mpk": 1.0,
+            "n_example_filter": 96
+        },
+        "mp5": {
+            "mpk": 0.96,
+            "mpk_adapt": 0.997979797979798,
+            "filter_mpk": 0.9978723404255319,
+            "n_example_filter": 94
+        },
+        "mp10": {
+            "mpk": 0.888,
+            "mpk_adapt": 0.9961840628507295,
+            "filter_mpk": 0.9986111111111112,
+            "n_example_filter": 72
+        }
+    }
+}
