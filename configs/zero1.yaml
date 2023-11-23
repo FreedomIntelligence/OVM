@@ -1,0 +1,25 @@
+command_file: null
+commands: null
+compute_environment: LOCAL_MACHINE
+deepspeed_config:
+  deepspeed_multinode_launcher: standard
+  gradient_clipping: 1.0
+  zero_stage: 1
+distributed_type: DEEPSPEED
+downcast_bf16: true
+dynamo_backend: 'NO'
+gpu_ids: null
+machine_rank: 0
+main_process_ip: null
+main_process_port: null
+main_training_function: main
+fsdp_config: {}
+megatron_lm_config: {}
+mixed_precision: bf16
+num_machines: 1
+num_processes: 8
+rdzv_backend: static
+same_network: true
+tpu_name: null
+tpu_zone: null
+use_cpu: false
