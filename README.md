@@ -1,4 +1,4 @@
-# OVM, Outcome-supervised Verifiers for Planning in Mathematical Reasoning
+# OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning
 
 
 Code, metrics, and models for the paper [Outcome-supervised Verifiers for Planning in Mathematical Reasoning](https://arxiv.org/pdf/2311.09724.pdf)
@@ -6,9 +6,9 @@ Code, metrics, and models for the paper [Outcome-supervised Verifiers for Planni
 
 The key technical implementations (`utils/sampling.py`):
 
-1. Value-guided beam search: step-level beam search guided by a value model
+1. **Value-guided beam search**: step-level beam search guided by a value model
 
-2. Allow batch generation with caculator using cache (2-3 times faster than a naive implementation)
+2. **Allow batch generation with caculator using cache** (2-3 times faster than a naive implementation)
 
 
 ## Something ...
