@@ -11,7 +11,16 @@ The key technical implementations (`utils/sampling.py`):
 2. **Allow batch generation with caculator using cache** (2-3 times faster than a naive implementation)
 
 
-## Something ...
+## Models
+
+| Model                | Dataset      | Link                     |
+|----------------------|--------------|--------------------------|
+| OVM-Llama2-7B        | GSM8K        | [parameters](https://huggingface.co/FreedomIntelligence/OVM-llama2-7b)  |
+| OVM-Mistral-7B       | GSM8K        | [parameters](https://huggingface.co/FreedomIntelligence/OVM-Mistral-7b) |
+
+
+
+## Somethings for code
 
 
 1. Directories
