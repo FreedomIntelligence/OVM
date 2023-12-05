@@ -127,3 +127,28 @@ bash scripts/gsm8k/greedy_eval.sh
 ```
 The output will be saved to `eval_results/gsm8k/generator/test` 
 
+
+
+
+
+## Citation
+```
+@misc{yu2023outcomesupervised,
+      title={Outcome-supervised Verifiers for Planning in Mathematical Reasoning}, 
+      author={Fei Yu and Anningzhe Gao and Benyou Wang},
+      year={2023},
+      eprint={2311.09724},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+## Star History
+
+<a href="https://star-history.com/#FreedomIntelligence/OVM&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/OVM&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/OVM&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FreedomIntelligence/OVM&type=Date" />
+  </picture>
+</a>
